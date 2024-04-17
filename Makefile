@@ -1,7 +1,7 @@
 # Makefile para compilar hanoi.s en Raspbian OS
 
 # Nombre del archivo del programa
-TARGET = hanoi2
+TARGET = hanoi
 
 # Assembler y linker
 AS = as
